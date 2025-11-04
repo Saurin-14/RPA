@@ -178,6 +178,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="512.8,122.4" sap2010:WorkflowViewState.IdRef="WriteLine_4" Text="From Child" />
+    <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="512.8,122.4" sap2010:WorkflowViewState.IdRef="WriteLine_4" Text="Newline from Parent" />
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="512.8,117.6" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Hello&quot;]" />
     <Assign sap:VirtualizedContainerService.HintSize="512.8,174.4" sap2010:WorkflowViewState.IdRef="Assign_1">
       <Assign.To>
