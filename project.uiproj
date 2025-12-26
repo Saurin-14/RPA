@@ -1,0 +1,6 @@
+{
+  "Name": "RPASampleProject",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
